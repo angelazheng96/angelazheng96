@@ -1,5 +1,5 @@
-## Hi! 💐
+## Hi! 👋🏻💐
 
-I'm Angela, a first-year University of Toronto (St. George) Computer Science student, originally from Ottawa.
+I'm Angela Zheng, a first-year University of Toronto (St. George) Computer Science student, originally from Ottawa.
 
-Check out some of the projects I've worked on! My personal website is still under construction. :)
+Check out some of the projects I've worked on or my [personal website](https://angelazheng.ca/) for more details!
