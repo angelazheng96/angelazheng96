@@ -1,5 +1,13 @@
-## Hi, I'm Angela! 👋🏻💐
+# Hi, I'm Angela! 💐
 
-I'm a first-year student at the University of Toronto studying Computer Science and Physics, currently working as an Analytic Escalations Intern at Kinaxis.
+## about 🌟
 
-Check out some of the projects I've worked on or my [website](https://angelazheng.ca/) for more details! :)
+- 📖 incoming second-year student at the University of Toronto, studying Computer Science and Physics
+- 💼 currently working as an Analytic Escalations Developer Intern at [Kinaxis](https://www.kinaxis.com/en)
+- 🍰 probably doing a lot of miscellaneous hobbies
+
+## contact 💌
+
+- 🌐 [angelazheng.ca](https://angelazheng.ca/)
+- 📧 angelayang.zheng@gmail.com
+- 💬 [linkedin.com/in/angela-y-zheng/](https://www.linkedin.com/in/angela-y-zheng/)
