@@ -2,10 +2,10 @@
 
 ## about 🌟
 
-- 📖 incoming second-year student at the **University of Toronto**, studying **Computer Science & Physics**
-- 💼 currently working as an **Analytic Escalations Developer Intern** at [**Kinaxis**](https://www.kinaxis.com/en)
-- 💜 **[WISE Conference](https://github.com/WISE-UofT) Operations Director** & **[UTAT](https://github.com/utat-ss) Firmware Developer**
-- 🍰 doing miscellaneous hobbies — reading, crocheting, baking, writing [blog posts](https://angelazheng.ca/blog/), and lots more!
+- 📖 second-year student at the **University of Toronto**, studying **Computer Science & Physics**
+- 💼 previously worked as an **Analytic Escalations Developer Intern** at [**Kinaxis**](https://www.kinaxis.com/en) (Summer 2026)
+- 🌷 **[PythonTA](https://github.com/pyta-uoft) Software Developer**, **[UTMIST](https://github.com/UTMIST) Web & Internal Tooling Developer**, **[WISE Conference](https://github.com/WISE-UofT) Operations Director**, & **[UTAT](https://github.com/utat-ss) Firmware Developer**
+- 🧋 doing miscellaneous hobbies — reading, crocheting, baking, writing [blog posts](https://angelazheng.ca/blog/), and lots more!
 
 ## project highlights 🚀
 
